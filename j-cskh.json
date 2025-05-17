@@ -1,0 +1,29 @@
+{
+    "data": {
+        "force_update": "0",
+        "version_code": "1",
+        "is_update": "0",
+        "link_apk": "",
+        "base_url": "",
+        "apk_name": "",
+        "force_update_ios": "0",
+        "version_ios": "1.0",
+        "is_update_ios": "0",
+        "link_ipa": "",
+        "link_image": "",
+        "link_main": "",
+        "link_backup": "AvQID3HBEJx73XWQoUIG/GqgVmQvmnIDkS79DivOI8A=",
+        "link_backup_ios": "OsazKCZ2PT7rowDauPeFREngF9YVNFXMoNoHkfTu5R8CumN57By8elhY09BYCg+d9pq4qSWUPYWm9VzAYThUp0g+v/GEASvBE5zqc5JwVOE5p0UX87hc+9uMuWwVPmHpA0xAl1gd+XsMP9wOfhsiDRhfzkGDdZv+4dYAPrueICc/w0aerfpQ8gixgpvG6lO9pqzvFpnj892fiZvnW1Gzv/hOQlMbKbQqc4zX13b2NiE6OT6yW64KqIVfuyBaQrQn9r+7fkZ+gSF6JXTZQ4x0nenhhiG1G801au9pwUf0rzyLtMEbEJB+Wy6YvIIbA0dETxdP4nvOpCJnS78K2Do8vBSE7Z0oQyQnqgvjTYT3yhdAWijsE8S/Pe0ZMxtfgmT4y1q6HLeieIbumq2GyCqEKJXc2AfUntniemHZjZqR5g6Ptf49xaYT/dqxVqlqVvg9kTQ5r0JhCSXyJ0oOlNJh5+CEVzseznk+6bjmJpySrAghIn+qSP9lhTJFlzpMb0Is+aFrBHsBxnjWZZKZHJZ6U5xm0CcWwb2feBvG1Rp4gsuZyVrT1ybHPPtZ7Iu6wZc9nZbvlu6+2IUUCToXKoTIYw==",
+        "link_open_browser": "8AAdI6dfks43UFouCUkfPQ==",
+        "link_open_browser_detail": "8AAdI6dfks43UFouCUkfPQ==",
+        "link_open_tab_agent": "1fd38B6zAh0b5s3BaGxwsA==",
+        "link_open_tab_detail_agent": "1fd38B6zAh0b5s3BaGxwsA==",
+        "link_open_tab_none_agent": "k/BiHhPcglh98VHjNpuPxyx0r6YBeWyTiNy1YwAXVctGmdDt64g5wqR3IzYveE7H",
+        "link_open_tab_detail_none_agent": "k/BiHhPcglh98VHjNpuPxyx0r6YBeWyTiNy1YwAXVctGmdDt64g5wqR3IzYveE7H",
+        "show_view_bottom": "0",
+        "is_use_proxy": "0",
+        "is_change_proxy": "1",
+        "ip_proxy": "bCctLTXKR0bCxULsVlHPGw==",
+        "ip_port": "8oVSpadvM9uwW1npc+3JSw=="
+    }
+}
