@@ -35,7 +35,8 @@
             {"event_name": "recharge","token": "o8vk5h"},
             {"event_name": "rechargeClick","token": "skldm8"},
             {"event_name": "register","token": "f4mtpi"},
-            {"event_name": "registerClick","token": "5z8fzx"}
+            {"event_name": "registerClick","token": "5z8fzx"},
+            {"event_name": "firstDepositArrival","token": "qls8pi"}
         ],
         "use_utm_campaign" : "1",
         "adgroup": ""
