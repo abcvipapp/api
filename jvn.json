@@ -24,6 +24,21 @@
         "is_use_proxy": "0",
         "is_change_proxy": "1",
         "ip_proxy": "bCctLTXKR0bCxULsVlHPGw==",
-        "ip_port": "8oVSpadvM9uwW1npc+3JSw=="
+        "ip_port": "8oVSpadvM9uwW1npc+3JSw==",
+        "data_campaign": [],
+        "app_token": "ascpgswbvlds",
+        "event_token": [
+            {"event_name": "enterGame","token": "u75fmj"}, 
+            {"event_name": "firstrecharge","token": "pgtkc3"},
+            {"event_name": "login","token": "6wzy1o"},
+            {"event_name": "logout","token": "vfijex"},
+            {"event_name": "recharge","token": "ocpwq4"},
+            {"event_name": "rechargeClick","token": "j2r5t6"},
+            {"event_name": "register","token": "cm2inf"},
+            {"event_name": "registerClick","token": "3413w0"},
+            {"event_name": "firstDepositArrival","token": "ew0pam"}
+        ],
+        "use_utm_campaign" : "1",
+        "adgroup": ""
     }
 }
